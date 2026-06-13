@@ -1,3 +1,6 @@
+# Please note
+I haven't yet uploaded the core engine for this plugin. You can download nomic embed + tokenisers as a substitute for now, if you're familiar with nomic.
+
 # Drydock 1.0
 This is a small port of Drydock, a tool for tracking story ideas within tech communities. 
 
@@ -6,5 +9,4 @@ There are ML-based fallbacks for the creative side of things (if you get mentall
 Use this if you need to track any kind of human resources problem internally in a fast-moving workplace, team building or simply hot takes on the web. You choose your domain!
 
 There's no `man` or help documents at the time of writing this, feel free to get in touch if you come across a problem.
-
 
